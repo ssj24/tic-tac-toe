@@ -2,7 +2,7 @@
 
 tic-tac-toe game with react
 
-deploy: https://ssj24.github.io/tic-toc-toe/
+deploy: https://ssj24.github.io/tic-tac-toe/
 
 reference: https://github.com/basir/react-tic-tac-toe
 
